@@ -10,6 +10,7 @@ The project focuses on **camera systems, visibility checks, and controlled enemy
 ## Features
 - Camera-based mechanic where enemies appear only when viewed through the camera  
 - Rechargeable camera system with limited usage  
+- 21 different rooms with different objectives
 - Visibility and line-of-sight checks to control enemy reveals  
 - Resource-based gameplay design to increase tension  
 - First-person camera control and perspective-driven gameplay  
@@ -30,8 +31,11 @@ The project focuses on **camera systems, visibility checks, and controlled enemy
 ---
 
 ## Project Status
-In development (planned release)
+In development (planned release for demo and marketing)
+---
 
+## Gameplay
+https://www.youtube.com/watch?v=WfgQaLsO2s0
 ---
 
 ## License
