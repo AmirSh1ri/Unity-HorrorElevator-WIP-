@@ -5,6 +5,36 @@ A first-person Unity horror game built around a **camera-based visibility mechan
 
 The project focuses on **camera systems, visibility checks, and controlled enemy reveal logic**, using player perspective as a core gameplay mechanic. The game is structured with future publishing and release in mind.
 
+## Screenshots & Gameplay
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/99cd3664-49a6-47a6-a9cc-b908c8f0e133" width="45%" />
+  <img src="https://github.com/user-attachments/assets/365089ef-69b8-475d-b29f-56b2072cf23f" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8d6d891f-c7fc-4e98-b527-640e8f8f5ae5" width="45%" />
+  <img src="https://github.com/user-attachments/assets/8d19d5cb-e474-4847-96f9-eae046c9921d" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a7483e46-3576-4d3f-be37-f31a4e0c2a62" width="45%" />
+  <img src="https://github.com/user-attachments/assets/7d41791a-c436-452f-8d36-e09dad6138af" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/828dd6bd-0d29-4c48-891c-00eb1aa5cc6a" width="45%" />
+  <img src="https://github.com/user-attachments/assets/0738057e-937b-4354-a86e-fd92061d882c" width="45%" />
+</p>
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/227e1b80-345e-41be-8f10-ea0e6977b681" width="45%" />
+    <img src="https://github.com/user-attachments/assets/b735fff6-46e5-4b4f-972a-7af6445302c4" width="45%" />
+  <img src="https://github.com/user-attachments/assets/fc573dc6-ab87-48d4-bb96-0d505c5c5eff" width="45%" />
+</p>
+
+
+
+
 **Note: Current UI elements are placeholders and will be redesigned for the final release.**
 
 ---
