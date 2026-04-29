@@ -31,11 +31,11 @@ The project focuses on **camera systems, visibility checks, and controlled enemy
 ---
 
 ## Project Status
-In development (planned release for demo and marketing)
+- In development (planned release for demo and marketing)
 ---
 
 ## Gameplay
-https://www.youtube.com/watch?v=WfgQaLsO2s0
+- https://www.youtube.com/watch?v=WfgQaLsO2s0
 ---
 
 ## License
